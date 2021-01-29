@@ -1,4 +1,4 @@
-# angular-10-signup-verification-boilerplate
+# angular-11-signup-verification-boilerplate
 
 Angular 11 Boilerplate - Email Sign Up with Verification, Authentication & Forgot Password
 
